@@ -1273,6 +1273,13 @@
   dependencies:
     "@babel/types" "^7.3.0"
 
+"@types/dompurify@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@types/dompurify/-/dompurify-2.0.0.tgz#9616caa5bf2569aea2e4889d4f929d968c081b40"
+  integrity sha512-g/ilp+Bo6Ljy60i5LnjkGw00X7EIoFjoPGlxqZhV8TJ9fWEzXheioU1O+U/UzCzUA7pUDy/JNMytTQDJctpUHg==
+  dependencies:
+    "@types/trusted-types" "*"
+
 "@types/draft-js@*", "@types/draft-js@^0.10.37":
   version "0.10.37"
   resolved "https://registry.yarnpkg.com/@types/draft-js/-/draft-js-0.10.37.tgz#41f3ddc64eb90d2ee7af73911c3f85e370aebdf1"
@@ -1413,6 +1420,11 @@
   dependencies:
     "@types/react-dom" "*"
     "@types/testing-library__dom" "*"
+
+"@types/trusted-types@*":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@types/trusted-types/-/trusted-types-1.0.4.tgz#922d092c84a776a59acb0bd6785fd82b59b9bad5"
+  integrity sha512-6jtHrHpmiXOXoJ31Cg9R+iEVwuEKPf0XHwFUI93eEPXx492/J2JHyafkleKE2EYzZprayk9FSjTyK1GDqcwDng==
 
 "@types/unist@^2.0.0", "@types/unist@^2.0.2":
   version "2.0.3"
@@ -3756,6 +3768,11 @@ domhandler@^2.3.0:
   integrity sha512-JiK04h0Ht5u/80fdLMCEmV4zkNh2BcoMFBmZ/91WtYZ8qVXSKjiw7fXMgFPnHcSZgOo3XdinHvmnDUeMf5R4wA==
   dependencies:
     domelementtype "1"
+
+dompurify@^2.0.7:
+  version "2.0.7"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.0.7.tgz#f8266ad38fe1602fb5b3222f31eedbf5c16c4fd5"
+  integrity sha512-S3O0lk6rFJtO01ZTzMollCOGg+WAtCwS3U5E2WSDY/x/sy7q70RjEC4Dmrih5/UqzLLB9XoKJ8KqwBxaNvBu4A==
 
 domutils@1.5.1:
   version "1.5.1"

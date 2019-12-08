@@ -10,6 +10,7 @@
     "@types/node": "^12.0.0",
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
+    "dompurify": "^2.0.7",
     "draft-js": "^0.11.3",
     "draftjs-to-html": "^0.9.0",
     "html-to-draftjs": "^1.5.0",
@@ -42,6 +43,7 @@
     ]
   },
   "devDependencies": {
+    "@types/dompurify": "^2.0.0",
     "@types/draft-js": "^0.10.37",
     "@types/draftjs-to-html": "^0.8.0",
     "@types/html-to-draftjs": "^1.4.0",
