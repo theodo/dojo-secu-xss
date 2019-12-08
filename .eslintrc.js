@@ -20,6 +20,8 @@ module.exports = {
     ecmaVersion: 2018,
     sourceType: "module"
   },
-  plugins: ["react", "@typescript-eslint"],
-  rules: {}
+  plugins: ["react", "@typescript-eslint", "risxss"],
+  rules: {
+    "risxss/catch-potential-xss-react": "error"
+  }
 };
